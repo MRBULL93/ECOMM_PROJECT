@@ -11,7 +11,7 @@ namespace ECommerceApplication.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            //Kthen View
+            //Kthen 
             return View();
         }
     }
